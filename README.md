@@ -1,1 +1,0 @@
-# sk-cop-wrkshp-reactnative
